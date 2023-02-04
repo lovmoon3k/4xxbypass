@@ -36,9 +36,11 @@ This script contain all the possible techniques to do the same. Performing HTTP 
 ## Installation
 
 ```sh
-1. Download repository.
-2. Move to your desired location.
-3. Make sure to the script and files are in the same location.
+1. Download or clone repository.
+2. Move to your desired location (Make sure to the script and files are in the same location).
+3. chmod +x *.sh on the folder.
+4. ./wttb.sh to run the code.
+NOTE: You will need `cURL` but it is usually in most OS now.
 ```
 ## License
 GNU Affero General Public License v3.0
