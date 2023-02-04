@@ -12,14 +12,21 @@
 </p>
 
 
+https://user-images.githubusercontent.com/43219706/216746476-b19f2189-86f3-46e8-8668-fa0a451cbd13.mp4
+
+
+
 <a href="https://www.buymeacoffee.com/notarealdev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" ></a>
 
 ## Tool to bypass 403/401.
 This script contain all the possible techniques to do the same. Performing HTTP status code checks on a list of URLs. It uses `cURL` to send HTTP requests to the specified URLs and analyzes the response to determine the status code and payload. Based on the status code, the script will print a message indicating the status and additional information, such as redirect location, if applicable. The results of the scan are appended to a file named "scan_results.txt".
 ## It will follow redirects, if any.
 
-- **NOTE** : If you see multiple [200 Ok]/bypasses as output, you must check the Content-Length. If the content-length is same for multiple [200 Ok]/bypasses means false positive. Reason can be "301/302" or "../" [Payload] DON'T PANIC.
-- Script will print `cURL` PAYLOAD if possible bypass found.
+**NOTE** : 
+* If you see multiple [200 Ok]/bypasses as output, you must check the Content-Length.
+* If the content-length is same for multiple [200 Ok]/bypasses means false positive.
+* Reason can be "301/302" or "../" [Payload] DON'T PANIC.
+* Script will print `cURL` PAYLOAD if possible bypass found.
 
 
 ## Features
