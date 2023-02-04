@@ -35,6 +35,11 @@ This script contain all the possible techniques to do the same. Performing HTTP 
 2. Move to your desired location.
 3. Make sure to the script and files are in the same location.
 ```
+## License
+GNU Affero General Public License v3.0
+
+Donations to my broke a$$:
+* Bitcoin (BTC) Address: bc1qa27kjjqacshg3szwvr5rr48dfwfdfrtyu8agd4
 
 ## Credits to: Dheeraj Madhukar for the original code!
 https://github.com/Dheerajmadhukar/4-ZERO-3
