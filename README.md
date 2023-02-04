@@ -11,9 +11,7 @@
   <img width="400" src="https://user-images.githubusercontent.com/43219706/216733814-26945b8b-0454-4194-bc70-0441802a6c71.png">
 </p>
 
-
-https://user-images.githubusercontent.com/43219706/216746476-b19f2189-86f3-46e8-8668-fa0a451cbd13.mp4
-
+https://user-images.githubusercontent.com/43219706/216746649-8ccecacc-9813-4130-8881-07ea596a1cc6.mov
 
 
 <a href="https://www.buymeacoffee.com/notarealdev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" ></a>
